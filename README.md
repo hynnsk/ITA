@@ -191,4 +191,4 @@ ITA model parameter names are preserved for checkpoints from the previous traini
 
 ## Acknowledgements
 
-This implementation builds on the [upstream PRVR codebase](https://github.com/BUAAPY/ProPy), including its dataset preparation and converted annotations, and uses components from [CLIP](https://github.com/openai/CLIP) and [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip).
+This implementation builds on the [ProPy](https://github.com/BUAAPY/ProPy), including its dataset preparation and converted annotations, and uses components from [CLIP](https://github.com/openai/CLIP) and [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip).
