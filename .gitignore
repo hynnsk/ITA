@@ -1,0 +1,10 @@
+*.jsonl
+*.zip
+**/__pycache__/
+logs/
+CLIP_weights/
+data/
+annotations/
+.venv/
+.pytest_cache/
+.ruff_cache/
